@@ -1,9 +1,5 @@
 # Task Manager
 
-Brief project description or overview goes here.
-
-# Task Manager
-
 It's a straightforward task manager that allows you to add new tasks, mark them as complete, and filter them by all tasks, active tasks, and completed tasks. It offers basic functionality and provides visibility into task priorities and due dates.
 
 ## Getting Started
